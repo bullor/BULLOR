@@ -1,4 +1,4 @@
-# Hi there, I'm Bulent - aka [bullor]👋 
+# Hi there, I'm Bulent - aka [bullor][linkedin]👋 
 
 
 ## I'm a Machine Learning Engineer and Telco Project Manager
