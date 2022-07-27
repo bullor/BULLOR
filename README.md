@@ -24,6 +24,9 @@
 [<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />][Numpy]
 [<img align="left" alt="MatPlot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][MatPlot]
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][Pandas]
+[<img align="left" alt="Scikitlearn" width="26px" src="./img/scikit-learn-seeklogo.com.svg" style="padding-right:10px;" />][ScikitLearn]
+[<img align="left" alt="Scipy" width="26px" src="./img/scipy-seeklogo.com.svg" style="padding-right:10px;" />][Scipy]
+[<img align="left" alt="JupyterNotebook" width="26px" src="./img/jupyter-original.svg" style="padding-right:10px;" />][JupyterNotebook]
 [<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />][Pycharm]
 [<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />][Jira]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][MySQL]
@@ -41,17 +44,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-3. ❌ Closed PR [#16](https://github.com/codeSTACKr/nft-landing-page/pull/16) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-4. ❌ Closed PR [#14](https://github.com/codeSTACKr/nft-landing-page/pull/14) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
@@ -66,15 +58,18 @@
 [instagram]: https://www.instagram.com/bulentorun/
 [linkedin]: https://www.linkedin.com/in/bulentorun/
 [Python]: https://www.python.org/
-[Pytorch]: http://vsCodeHero.com
-[Numpy]: https://twitter.com/codeSTACKr
-[MatPlot]: https://youtube.com/codeSTACKr
-[Pandas]: https://instagram.com/codeSTACKr
-[Pycharm]: https://linkedin.com/in/codeSTACKr
-[Jira]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[MySQL]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[MongoDB]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[GitHub]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[VSCode]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[Pytorch]: https://pytorch.org/
+[Numpy]: https://numpy.org/
+[MatPlot]: https://matplotlib.org/
+[Pandas]: https://pandas.pydata.org/
+[ScikitLearn]: https://scikit-learn.org/
+[Scipy]: https://scipy.org/
+[JupyterNotebook]: https://jupyter.org/
+[Pycharm]: https://www.jetbrains.com/pycharm/
+[Jira]: https://www.atlassian.com/software/jira
+[MySQL]: https://www.mysql.com/
+[MongoDB]: https://www.mongodb.com/
+[GitHub]: https://github.com/
+[VSCode]: https://code.visualstudio.com/
 
 
