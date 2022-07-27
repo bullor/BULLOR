@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bulentorun/)
+[<img align="left" alt="bullor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bulentorun/)
+[<img align="left" alt="bullor" width="26px" src="./img/instagram-2165.svg" style="padding-right:10px;" />][instagram]
 
 
 ### Languages and Tools:
