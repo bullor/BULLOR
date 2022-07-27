@@ -1,14 +1,14 @@
 # Hi there, I'm Bulent - aka [bullor][linkedin]👋 
 
 
-## I'm a Machine Learning Engineer and Telco Project Manager
+## I'm a Data Engineer with ML/Deep Learning experience and Telco Project Manager
 
 - 🌱 I’m currently learning everything about Machine Learning 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Deep Learning algorithms.
 - ⚡ Fun fact: I love to coach and play football .
 
-
+Data Engineer with ML and Deep Learning experience
 
 ### Connect with me:
 
