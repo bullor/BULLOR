@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to coach and play football .
 
 
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bulentorun/)
@@ -18,17 +19,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][https://www.python.org/]
-[<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />][https://pytorch.org/]
-[<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />][https://numpy.org/]
-[<img align="left" alt="MatPlot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][https://matplotlib.org/]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][https://pandas.pydata.org/]
-[<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />][https://www.jetbrains.com/pycharm/]
-[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />][https://www.atlassian.com/software/jira]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][https://www.mysql.com/]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][https://www.mongodb.com/]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][https://github.com/]
-[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][https://code.visualstudio.com/]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
+[<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />][Pytorch]
+[<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />][Numpy]
+[<img align="left" alt="MatPlot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][MatPlot]
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][Pandas]
+[<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />][Pycharm]
+[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />][Jira]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][MySQL]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][MongoDB]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][GitHub]
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VSCode]
 
 <br />
 <br />
@@ -57,6 +58,18 @@
 
 
 
-
 [instagram]: https://www.instagram.com/bulentorun/
 [linkedin]: https://www.linkedin.com/in/bulentorun/
+[Python]: https://www.python.org/
+[Pytorch]: http://vsCodeHero.com
+[Numpy]: https://twitter.com/codeSTACKr
+[MatPlot]: https://youtube.com/codeSTACKr
+[Pandas]: https://instagram.com/codeSTACKr
+[Pycharm]: https://linkedin.com/in/codeSTACKr
+[Jira]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[MySQL]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[MongoDB]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[GitHub]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[VSCode]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
