@@ -15,6 +15,7 @@ Data Engineer with ML and Deep Learning experience
 [<img align="left" alt="bullor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
 [<img align="left" alt="bullor" width="26px" src="./img/instagram-2165.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="bullor" width="26px" src="./img/discord-black-seeklogo.com-2.svg" style="padding-right:10px;" />][discord]
 
 
 ### Languages and Tools:
@@ -62,6 +63,7 @@ Data Engineer with ML and Deep Learning experience
 
 [instagram]: https://www.instagram.com/bulentorun/
 [linkedin]: https://www.linkedin.com/in/bulentorun/
+[discord]: https://discordapp.com/users/bullor#3245
 [Python]: https://www.python.org/
 [Pytorch]: https://pytorch.org/
 [Numpy]: https://numpy.org/
