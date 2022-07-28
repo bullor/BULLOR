@@ -8,7 +8,6 @@
 - 🥅 2022 Goals: Learn more about Deep Learning algorithms.
 - ⚡ Fun fact: I love to coach and play football .
 
-Data Engineer with ML and Deep Learning experience
 
 ### Connect with me:
 
