@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Backpropagation via Local Loss Optimization](http://ai.googleblog.com/2022/07/enhancing-backpropagation-via-local.html)
 - [Look and Talk: Natural Conversations with Google Assistant](http://ai.googleblog.com/2022/07/look-and-talk-natural-conversations.html)
 - [ML-Enhanced Code Completion Improves Developer Productivity](http://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
 - [Training Generalist Agents with Multi-Game Decision Transformers](http://ai.googleblog.com/2022/07/training-generalist-agents-with-multi.html)
 - [Simplified Transfer Learning for Chest Radiography Model Development](http://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html)
-- [Google at ICML 2022](http://ai.googleblog.com/2022/07/google-at-icml-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
