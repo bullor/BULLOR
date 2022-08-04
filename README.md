@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Google Universal Image Embedding Challenge](http://ai.googleblog.com/2022/08/introducing-google-universal-image.html)
 - [Building Efficient Multiple Visual Domain Models with Multi-path Neural Architecture Search](http://ai.googleblog.com/2022/08/building-efficient-multiple-visual.html)
 - [Efficient Sequence Modeling for On-Device ML](http://ai.googleblog.com/2022/08/efficient-sequence-modeling-for-on.html)
 - [Enhancing Backpropagation via Local Loss Optimization](http://ai.googleblog.com/2022/07/enhancing-backpropagation-via-local.html)
 - [Look and Talk: Natural Conversations with Google Assistant](http://ai.googleblog.com/2022/07/look-and-talk-natural-conversations.html)
-- [ML-Enhanced Code Completion Improves Developer Productivity](http://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
