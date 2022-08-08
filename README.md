@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Google Universal Image Embedding Challenge](http://ai.googleblog.com/2022/08/introducing-google-universal-image.html)
-- [Building Efficient Multiple Visual Domain Models with Multi-path Neural Architecture Search](http://ai.googleblog.com/2022/08/building-efficient-multiple-visual.html)
-- [Efficient Sequence Modeling for On-Device ML](http://ai.googleblog.com/2022/08/efficient-sequence-modeling-for-on.html)
-- [Enhancing Backpropagation via Local Loss Optimization](http://ai.googleblog.com/2022/07/enhancing-backpropagation-via-local.html)
-- [Look and Talk: Natural Conversations with Google Assistant](http://ai.googleblog.com/2022/07/look-and-talk-natural-conversations.html)
+- [Towards Reliability in Deep Learning Systems](http://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
+- [Rewriting Image Captions for Visual Question Answering Data Creation](http://ai.googleblog.com/2022/07/rewriting-image-captions-for-visual.html)
+- [Revisiting Mask Transformer from a Clustering Perspective](http://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
+- [​​Deep Hierarchical Planning from Pixels](http://ai.googleblog.com/2022/07/deep-hierarchical-planning-from-pixels.html)
+- [Enabling Creative Expression with Concept Activation Vectors](http://ai.googleblog.com/2022/07/enabling-creative-expression-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
