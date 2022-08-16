@@ -15,6 +15,8 @@
 &nbsp;&nbsp;
 [<img align="left" alt="bullor" width="26px" src="./img/instagram-2165.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="bullor" width="26px" src="./img/discord-black-seeklogo.com-2.svg" style="padding-right:10px;" />][discord]
+[<img align="left" alt="bullor" width="26px" src="./img/notion-svgrepo-com.svg" style="padding-right:10px;" />][notion]
+[<img align="left" alt="bullor" width="26px" src="./img/kaggle-svgrepo-com.svg" style="padding-right:10px;" />][kaggle]
 
 
 ### Languages and Tools:
@@ -33,6 +35,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][MongoDB]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][GitHub]
 [<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VSCode]
+[<img align="left" alt="Tableau" width="26px" src="./img/tableau-svgrepo-com.svg" style="padding-right:10px;" />][Tableau]
+[<img align="left" alt="Snowflake" width="26px" src="./img/snowflake-svgrepo-com.svg" style="padding-right:10px;" />][Snowflake]
 
 <br />
 <br />
@@ -63,6 +67,8 @@
 [instagram]: https://www.instagram.com/bulentorun/
 [linkedin]: https://www.linkedin.com/in/bulentorun/
 [discord]: https://discordapp.com/users/bullor#3245
+[notion]: https://melted-taleggio-4e8.notion.site/66DaysOfData-for-Bulent-ORUN-ced084d9dd8948eb95d43d68ece29fd2
+[kaggle]: https://www.kaggle.com/bulentorun
 [Python]: https://www.python.org/
 [Pytorch]: https://pytorch.org/
 [Numpy]: https://numpy.org/
@@ -77,5 +83,9 @@
 [MongoDB]: https://www.mongodb.com/
 [GitHub]: https://github.com/
 [VSCode]: https://code.visualstudio.com/
+[Tableau]: https://www.tableau.com/
+[Snowflake]: https://www.snowflake.com/
+
+
 
 
