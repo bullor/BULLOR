@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](http://ai.googleblog.com/2022/08/optformer-towards-universal.html)
 - [Towards Helpful Robots: Grounding Language in Robotic Affordances](http://ai.googleblog.com/2022/08/towards-helpful-robots-grounding.html)
 - [Rax: Composable Learning-to-Rank Using JAX](http://ai.googleblog.com/2022/08/rax-composable-learning-to-rank-using.html)
 - [Efficient Video-Text Learning with Iterative Co-tokenization](http://ai.googleblog.com/2022/08/efficient-video-text-learning-with.html)
 - [Introducing the Google Universal Image Embedding Challenge](http://ai.googleblog.com/2022/08/introducing-google-universal-image.html)
-- [Building Efficient Multiple Visual Domain Models with Multi-path Neural Architecture Search](http://ai.googleblog.com/2022/08/building-efficient-multiple-visual.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
