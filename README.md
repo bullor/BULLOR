@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Patent Phrase Similarity Dataset](http://ai.googleblog.com/2022/08/announcing-patent-phrase-similarity.html)
 - [High-Definition Segmentation in Google Meet](http://ai.googleblog.com/2022/08/high-definition-segmentation-in-google.html)
 - [Using ML to Boost Engagement with a Maternal and Child Health Program in India](http://ai.googleblog.com/2022/08/using-ml-to-boost-engagement-with.html)
 - [UVQ: Measuring YouTube&#39;s Perceptual Video Quality](http://ai.googleblog.com/2022/08/uvq-measuring-youtubes-perceptual-video.html)
 - [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](http://ai.googleblog.com/2022/08/optformer-towards-universal.html)
-- [Towards Helpful Robots: Grounding Language in Robotic Affordances](http://ai.googleblog.com/2022/08/towards-helpful-robots-grounding.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
