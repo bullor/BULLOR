@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning to Walk in the Wild from Terrain Semantics](http://ai.googleblog.com/2022/09/learning-to-walk-in-wild-from-terrain.html)
 - [A Multi-Axis Approach for Vision Transformer and MLP Models](http://ai.googleblog.com/2022/09/a-multi-axis-approach-for-vision.html)
 - [Digitizing Smell: Using Molecular Maps to Understand Odor](http://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html)
 - [Announcing the Patent Phrase Similarity Dataset](http://ai.googleblog.com/2022/08/announcing-patent-phrase-similarity.html)
 - [High-Definition Segmentation in Google Meet](http://ai.googleblog.com/2022/08/high-definition-segmentation-in-google.html)
-- [Using ML to Boost Engagement with a Maternal and Child Health Program in India](http://ai.googleblog.com/2022/08/using-ml-to-boost-engagement-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
