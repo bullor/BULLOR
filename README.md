@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google at Interspeech 2022](http://ai.googleblog.com/2022/09/google-at-interspeech-2022.html)
 - [Robust Online Allocation with Dual Mirror Descent](http://ai.googleblog.com/2022/09/robust-online-allocation-with-dual.html)
 - [PaLI: Scaling Language-Image Learning in 100+ Languages](http://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
 - [LOLNeRF: Learn from One Look](http://ai.googleblog.com/2022/09/lolnerf-learn-from-one-look.html)
 - [Learning to Walk in the Wild from Terrain Semantics](http://ai.googleblog.com/2022/09/learning-to-walk-in-wild-from-terrain.html)
-- [A Multi-Axis Approach for Vision Transformer and MLP Models](http://ai.googleblog.com/2022/09/a-multi-axis-approach-for-vision.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
