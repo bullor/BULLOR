@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [View Synthesis with Transformers](http://ai.googleblog.com/2022/09/view-synthesis-with-transformers.html)
 - [FindIt: Generalized Object Localization with Natural Language Queries](http://ai.googleblog.com/2022/09/findit-generalized-object-localization.html)
 - [Google at Interspeech 2022](http://ai.googleblog.com/2022/09/google-at-interspeech-2022.html)
 - [Robust Online Allocation with Dual Mirror Descent](http://ai.googleblog.com/2022/09/robust-online-allocation-with-dual.html)
 - [PaLI: Scaling Language-Image Learning in 100+ Languages](http://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
-- [LOLNeRF: Learn from One Look](http://ai.googleblog.com/2022/09/lolnerf-learn-from-one-look.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
