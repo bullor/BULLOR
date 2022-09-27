@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantization for Fast and Environmentally Sustainable Reinforcement Learning](http://ai.googleblog.com/2022/09/quantization-for-fast-and.html)
 - [TensorStore for High-Performance, Scalable Array Storage](http://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html)
 - [View Synthesis with Transformers](http://ai.googleblog.com/2022/09/view-synthesis-with-transformers.html)
 - [FindIt: Generalized Object Localization with Natural Language Queries](http://ai.googleblog.com/2022/09/findit-generalized-object-localization.html)
 - [Google at Interspeech 2022](http://ai.googleblog.com/2022/09/google-at-interspeech-2022.html)
-- [Robust Online Allocation with Dual Mirror Descent](http://ai.googleblog.com/2022/09/robust-online-allocation-with-dual.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
