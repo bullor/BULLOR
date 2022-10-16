@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UL2 20B: An Open Source Unified Language Learner](http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html)
+- [Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images](http://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html)
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
 - [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
 - [Quantization for Fast and Environmentally Sustainable Reinforcement Learning](http://ai.googleblog.com/2022/09/quantization-for-fast-and.html)
-- [TensorStore for High-Performance, Scalable Array Storage](http://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html)
-- [View Synthesis with Transformers](http://ai.googleblog.com/2022/09/view-synthesis-with-transformers.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
