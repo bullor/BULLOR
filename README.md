@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do Modern ImageNet Classifiers Accurately Predict Perceptual Similarity?](http://ai.googleblog.com/2022/10/do-modern-imagenet-classifiers.html)
 - [Table Tennis: A Research Platform for Agile Robotics](http://ai.googleblog.com/2022/10/table-tennis-research-platform-for.html)
 - [UL2 20B: An Open Source Unified Language Learner](http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html)
 - [Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images](http://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html)
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
-- [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
