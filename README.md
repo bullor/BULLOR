@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mixture-of-Experts with Expert Choice Routing](http://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 - [Characterizing Emergent Phenomena in Large Language Models](http://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
 - [Multi-layered Mapping of Brain Tissue via Segmentation Guided Contrastive Learning](http://ai.googleblog.com/2022/11/multi-layered-mapping-of-brain-tissue.html)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](http://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
 - [Infinite Nature: Generating 3D Flythroughs from Still Photos](http://ai.googleblog.com/2022/11/infinite-nature-generating-3d.html)
-- [Beyond Tabula Rasa: Reincarnating Reinforcement Learning](http://ai.googleblog.com/2022/11/beyond-tabula-rasa-reincarnating.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
