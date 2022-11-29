@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Better Language Models Without Massive Compute](http://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
 - [Google at NeurIPS 2022](http://ai.googleblog.com/2022/11/google-at-neurips-2022.html)
 - [Conversation Summaries in Google Chat](http://ai.googleblog.com/2022/11/conversation-summaries-in-google-chat.html)
 - [The Data Cards Playbook: A Toolkit for Transparency in Dataset Documentation](http://ai.googleblog.com/2022/11/the-data-cards-playbook-toolkit-for.html)
 - [Mixture-of-Experts with Expert Choice Routing](http://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
-- [Characterizing Emergent Phenomena in Large Language Models](http://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
