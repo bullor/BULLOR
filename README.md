@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will You Find These Shortcuts?](http://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
 - [Talking to Robots in Real Time](http://ai.googleblog.com/2022/12/talking-to-robots-in-real-time.html)
 - [Making a Traversable Wormhole with a Quantum Computer](http://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html)
 - [Better Language Models Without Massive Compute](http://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
 - [Google at NeurIPS 2022](http://ai.googleblog.com/2022/11/google-at-neurips-2022.html)
-- [Conversation Summaries in Google Chat](http://ai.googleblog.com/2022/11/conversation-summaries-in-google-chat.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
