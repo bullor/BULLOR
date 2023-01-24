@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Research, 2022 &amp; Beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
 - [Google Research, 2022 &amp; Beyond: Language, Vision and Generative Models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
 - [EHR-Safe: Generating High-Fidelity and Privacy-Preserving Synthetic Electronic Health Records](http://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html)
 - [Differential Privacy Accounting by Connecting the Dots](http://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html)
 - [Accelerating Text Generation with Confident Adaptive Language Modeling &lpar;CALM&rpar;](http://ai.googleblog.com/2022/12/accelerating-text-generation-with.html)
-- [Who Said What? Recorder&#39;s On-device Solution for Labeling Speakers](http://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
