@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deciphering Clinical Abbreviations with Privacy Protecting ML](http://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
 - [Google Research, 2022 &amp; Beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
 - [Google Research, 2022 &amp; Beyond: Language, Vision and Generative Models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
 - [EHR-Safe: Generating High-Fidelity and Privacy-Preserving Synthetic Electronic Health Records](http://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html)
 - [Differential Privacy Accounting by Connecting the Dots](http://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html)
-- [Accelerating Text Generation with Confident Adaptive Language Modeling &lpar;CALM&rpar;](http://ai.googleblog.com/2022/12/accelerating-text-generation-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
