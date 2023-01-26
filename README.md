@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning with Queried Hints](http://ai.googleblog.com/2023/01/learning-with-queried-hints.html)
-- [Deciphering Clinical Abbreviations with Privacy Protecting ML](http://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
-- [Google Research, 2022 &amp; Beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
-- [Google Research, 2022 &amp; Beyond: Language, Vision and Generative Models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
-- [EHR-Safe: Generating High-Fidelity and Privacy-Preserving Synthetic Electronic Health Records](http://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html)
+- [Learning with queried hints](http://ai.googleblog.com/2023/01/learning-with-queried-hints.html)
+- [Deciphering clinical abbreviations with privacy protecting ML](http://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
+- [Google Research, 2022 &amp; beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
+- [Google Research, 2022 &amp; beyond: Language, vision and generative models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
+- [EHR-Safe: Generating high-fidelity and privacy-preserving synthetic electronic health records](http://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
