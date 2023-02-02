@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Vizier: Towards reliable and flexible hyperparameter and blackbox optimization](http://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html)
 - [The Flan Collection: Advancing open source methods for instruction tuning](http://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html)
 - [Learning with queried hints](http://ai.googleblog.com/2023/01/learning-with-queried-hints.html)
 - [Deciphering clinical abbreviations with privacy protecting ML](http://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
 - [Google Research, 2022 &amp; beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
-- [Google Research, 2022 &amp; beyond: Language, vision and generative models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
