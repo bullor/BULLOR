@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amplification at the Quantum limit](http://ai.googleblog.com/2023/02/amplification-at-quantum-limit.html)
 - [Unsupervised and semi-supervised anomaly detection with data-centric ML](http://ai.googleblog.com/2023/02/unsupervised-and-semi-supervised.html)
 - [Google Research, 2022 &amp; beyond: Algorithms for efficient deep learning](http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithms.html)
 - [Real-time tracking of wildfire boundaries using satellite imagery](http://ai.googleblog.com/2023/02/real-time-tracking-of-wildfire.html)
 - [Google Research, 2022 &amp; beyond: ML &amp; computer systems](http://ai.googleblog.com/2023/02/google-research-2022-beyond-ml-computer.html)
-- [Open Source Vizier: Towards reliable and flexible hyperparameter and blackbox optimization](http://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
