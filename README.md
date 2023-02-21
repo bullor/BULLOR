@@ -46,7 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FRMT: A Benchmark for Few-Shot Region-Aware Machine Translation](http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html)
+- [FRMT: A benchmark for few-shot region-aware machine translation](http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html)
 - [FriendlyCore: A novel differentially private aggregation framework](http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html)
 - [Google Research, 2022 &amp; beyond: Robotics](http://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)
 - [Google Research, 2022 &amp; beyond: Algorithmic advances](http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithmic.html)
