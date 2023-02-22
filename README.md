@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Research, 2022 &amp; beyond: Natural sciences](http://ai.googleblog.com/2023/02/google-research-2022-beyond-natural.html)
 - [FRMT: A benchmark for few-shot region-aware machine translation](http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html)
 - [FriendlyCore: A novel differentially private aggregation framework](http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html)
 - [Google Research, 2022 &amp; beyond: Robotics](http://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)
 - [Google Research, 2022 &amp; beyond: Algorithmic advances](http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithmic.html)
-- [Amplification at the quantum limit](http://ai.googleblog.com/2023/02/amplification-at-quantum-limit.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
