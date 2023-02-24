@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A vision-language approach for foundational UI understanding](http://ai.googleblog.com/2023/02/a-vision-language-approach-for.html)
 - [Pre-training generalist agents using offline reinforcement learning](http://ai.googleblog.com/2023/02/pre-training-generalist-agents-using.html)
 - [Google Research, 2022 &amp; beyond: Health](http://ai.googleblog.com/2023/02/google-research-2022-beyond-health.html)
 - [Suppressing quantum errors by scaling a surface code logical qubit](http://ai.googleblog.com/2023/02/suppressing-quantum-errors-by-scaling.html)
 - [Google Research, 2022 &amp; beyond: Natural sciences](http://ai.googleblog.com/2023/02/google-research-2022-beyond-natural.html)
-- [FRMT: A benchmark for few-shot region-aware machine translation](http://ai.googleblog.com/2023/02/frmt-benchmark-for-few-shot-region.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
