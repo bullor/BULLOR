@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching old labels new tricks in heterogeneous graphs](http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html)
 - [Datasets at your fingertips in Google Search](http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html)
 - [Google Research, 2022 &amp; beyond: Research community engagement](http://ai.googleblog.com/2023/02/google-research-2022-beyond-research.html)
 - [A vision-language approach for foundational UI understanding](http://ai.googleblog.com/2023/02/a-vision-language-approach-for.html)
 - [Pre-training generalist agents using offline reinforcement learning](http://ai.googleblog.com/2023/02/pre-training-generalist-agents-using.html)
-- [Google Research, 2022 &amp; beyond: Health](http://ai.googleblog.com/2023/02/google-research-2022-beyond-health.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
