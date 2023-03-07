@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the ICDAR 2023 Competition on Hierarchical Text Detection and Recognition](http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html)
 - [Universal Speech Model &lpar;USM&rpar;: State-of-the-art speech AI for 100+ languages](http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 - [Performer-MPC: Navigation via real-time, on-robot transformers](http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html)
 - [Distributed differential privacy for federated learning](http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
 - [Teaching old labels new tricks in heterogeneous graphs](http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html)
-- [Datasets at your fingertips in Google Search](http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
