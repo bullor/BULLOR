@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible AI at Google Research: The Impact Lab](http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html)
 - [Learning from deep learning: a case study of feature discovery and validation in pathology](http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html)
 - [PaLM-E: An embodied multimodal language model](http://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 - [The BirdCLEF 2023 Challenge: Pushing the frontiers of biodiversity monitoring](http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html)
 - [Announcing the ICDAR 2023 Competition on Hierarchical Text Detection and Recognition](http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html)
-- [Universal Speech Model &lpar;USM&rpar;: State-of-the-art speech AI for 100+ languages](http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
