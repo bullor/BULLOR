@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PRESTO – A multilingual dataset for parsing realistic task-oriented dialogues](http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html)
 - [Detecting novel systemic biomarkers in external eye photos](http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html)
 - [Visual language maps for robot navigation](http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html)
 - [Vid2Seq: a pretrained visual language model for describing multi-event videos](http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
 - [Responsible AI at Google Research: The Impact Lab](http://ai.googleblog.com/2023/03/responsible-ai-at-google-research.html)
-- [Learning from deep learning: a case study of feature discovery and validation in pathology](http://ai.googleblog.com/2023/03/learning-from-deep-learning-case-study.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
