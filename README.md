@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges](http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html)
 - [Leveraging transfer learning for large scale differentially private image classification](http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html)
 - [PRESTO – A multilingual dataset for parsing realistic task-oriented dialogues](http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html)
 - [Detecting novel systemic biomarkers in external eye photos](http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html)
 - [Visual language maps for robot navigation](http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html)
-- [Vid2Seq: a pretrained visual language model for describing multi-event videos](http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
