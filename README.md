@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Project Starline improves remote communication](http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html)
 - [Pre-trained Gaussian processes for Bayesian optimization](http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html)
 - [Scaling vision transformers to 22 billion parameters](http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html)
 - [Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges](http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html)
 - [Leveraging transfer learning for large scale differentially private image classification](http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html)
-- [PRESTO – A multilingual dataset for parsing realistic task-oriented dialogues](http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
