@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing an aging clock using deep learning on retinal images](http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html)
 - [Towards ML-enabled cleaning robots](http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)
 - [Directing ML toward natural hazard mitigation through collaboration](http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html)
 - [How Project Starline improves remote communication](http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html)
 - [Pre-trained Gaussian processes for Bayesian optimization](http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html)
-- [Scaling vision transformers to 22 billion parameters](http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
