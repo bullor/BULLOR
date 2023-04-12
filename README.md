@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UniPi: Learning universal policies via text-guided video generation](http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html)
 - [Developing an aging clock using deep learning on retinal images](http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html)
 - [Towards ML-enabled cleaning robots](http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)
 - [Directing ML toward natural hazard mitigation through collaboration](http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html)
 - [How Project Starline improves remote communication](http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html)
-- [Pre-trained Gaussian processes for Bayesian optimization](http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
