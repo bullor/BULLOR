@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond automatic differentiation](http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 - [UniPi: Learning universal policies via text-guided video generation](http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html)
 - [Developing an aging clock using deep learning on retinal images](http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html)
 - [Towards ML-enabled cleaning robots](http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)
-- [Directing ML toward natural hazard mitigation through collaboration](http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
