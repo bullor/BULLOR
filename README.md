@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google at CHI 2023](http://ai.googleblog.com/2023/04/google-at-chi-2023.html)
 - [Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools](http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html)
 - [Recent advances in deep long-horizon forecasting](http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
 - [Responsible AI at Google Research: Technology, AI, Society and Culture](http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html)
 - [Differentially private heatmaps](http://ai.googleblog.com/2023/04/differentially-private-heatmaps.html)
-- [Beyond automatic differentiation](http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
