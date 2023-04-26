@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robust and efficient medical imaging with self-supervision](http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html)
 - [LayerNAS: Neural architecture search in polynomial complexity](http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html)
 - [Google at CHI 2023](http://ai.googleblog.com/2023/04/google-at-chi-2023.html)
 - [Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools](http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html)
 - [Recent advances in deep long-horizon forecasting](http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
-- [Responsible AI at Google Research: Technology, AI, Society and Culture](http://ai.googleblog.com/2023/04/responsible-ai-at-google-research.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
