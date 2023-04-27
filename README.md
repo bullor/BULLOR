@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An ML-based approach to better characterize lung diseases](http://ai.googleblog.com/2023/04/an-ml-based-approach-to-better.html)
 - [Robust and efficient medical imaging with self-supervision](http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html)
 - [LayerNAS: Neural architecture search in polynomial complexity](http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html)
 - [Google at CHI 2023](http://ai.googleblog.com/2023/04/google-at-chi-2023.html)
 - [Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools](http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html)
-- [Recent advances in deep long-horizon forecasting](http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
