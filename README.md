@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building better pangenomes to improve the equity of genomics](http://ai.googleblog.com/2023/05/building-better-pangenomes-to-improve.html)
 - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 - [IndoorSim-to-OutdoorReal: Learning to navigate outdoors without any outdoor experience](http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html)
 - [Google at ICLR 2023](http://ai.googleblog.com/2023/04/google-at-iclr-2023.html)
 - [An ML-based approach to better characterize lung diseases](http://ai.googleblog.com/2023/04/an-ml-based-approach-to-better.html)
-- [Robust and efficient medical imaging with self-supervision](http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
