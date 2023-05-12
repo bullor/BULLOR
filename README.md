@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [F-VLM: Open-vocabulary object detection upon frozen vision and language models](http://ai.googleblog.com/2023/05/f-vlm-open-vocabulary-object-detection.html)
 - [Enabling conversational interaction on mobile with LLMs](http://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html)
 - [Building better pangenomes to improve the equity of genomics](http://ai.googleblog.com/2023/05/building-better-pangenomes-to-improve.html)
 - [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 - [IndoorSim-to-OutdoorReal: Learning to navigate outdoors without any outdoor experience](http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html)
-- [Google at ICLR 2023](http://ai.googleblog.com/2023/04/google-at-iclr-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
