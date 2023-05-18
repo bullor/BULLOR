@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible AI at Google Research: PAIR](http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html)
 - [Using reinforcement learning for dynamic planning in open-ended conversations](http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html)
 - [Larger language models do in-context learning differently](http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html)
 - [Consensus and subjectivity of skin tone annotation for ML fairness](http://ai.googleblog.com/2023/05/consensus-and-subjectivity-of-skin-tone_15.html)
 - [F-VLM: Open-vocabulary object detection upon frozen vision and language models](http://ai.googleblog.com/2023/05/f-vlm-open-vocabulary-object-detection.html)
-- [Enabling conversational interaction on mobile with LLMs](http://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
