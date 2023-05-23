@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving code review comments with ML](http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html)
 - [Making ML models differentially private: Best practices and open challenges](http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html)
 - [Sparse video tubes for joint video and image vision transformers](http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html)
 - [Responsible AI at Google Research: PAIR](http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html)
 - [Using reinforcement learning for dynamic planning in open-ended conversations](http://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html)
-- [Larger language models do in-context learning differently](http://ai.googleblog.com/2023/05/larger-language-models-do-in-context.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
