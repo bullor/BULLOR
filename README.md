@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Differentially private clustering for large-scale datasets](http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html)
 - [Google Research at I/O 2023](http://ai.googleblog.com/2023/05/google-research-at-io-2023.html)
 - [Resolving code review comments with ML](http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html)
 - [Making ML models differentially private: Best practices and open challenges](http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html)
 - [Sparse video tubes for joint video and image vision transformers](http://ai.googleblog.com/2023/05/sparse-video-tubes-for-joint-video-and.html)
-- [Responsible AI at Google Research: PAIR](http://ai.googleblog.com/2023/05/responsible-ai-at-google-research-pair.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
