@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR](http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html)
 - [Retrieval-augmented visual-language pre-training](http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html)
 - [Large sequence models for software development activities](http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
 - [Foundation models for reasoning on charts](http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html)
 - [Barkour: Benchmarking animal-level agility with quadruped robots](http://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html)
-- [Differentially private clustering for large-scale datasets](http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
