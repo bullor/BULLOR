@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating speech synthesis in many languages with SQuId](http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html)
 - [Visual captions: Using large language models to augment video conferences with dynamic visuals](http://ai.googleblog.com/2023/06/visual-captions-using-large-language.html)
 - [AVFormer: Injecting vision into frozen speech models for zero-shot AV-ASR](http://ai.googleblog.com/2023/06/avformer-injecting-vision-into-frozen.html)
 - [Retrieval-augmented visual-language pre-training](http://ai.googleblog.com/2023/06/retrieval-augmented-visual-language-pre.html)
 - [Large sequence models for software development activities](http://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
-- [Foundation models for reasoning on charts](http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
