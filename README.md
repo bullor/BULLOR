@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations](http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html)
 - [Reconstructing indoor spaces with NeRF](http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html)
 - [Enabling delightful user experiences via predictive models of human attention](http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html)
 - [Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting](http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html)
 - [Evaluating speech synthesis in many languages with SQuId](http://ai.googleblog.com/2023/06/evaluating-speech-synthesis-in-many.html)
-- [Visual captions: Using large language models to augment video conferences with dynamic visuals](http://ai.googleblog.com/2023/06/visual-captions-using-large-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
