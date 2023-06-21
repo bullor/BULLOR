@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The world’s first braiding of non-Abelian anyons](http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html)
 - [Google at CVPR 2023](http://ai.googleblog.com/2023/06/google-at-cvpr-2023.html)
 - [Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations](http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html)
 - [Reconstructing indoor spaces with NeRF](http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html)
 - [Enabling delightful user experiences via predictive models of human attention](http://ai.googleblog.com/2023/06/enabling-delightful-user-experiences.html)
-- [Imagen Editor and EditBench: Advancing and evaluating text-guided image inpainting](http://ai.googleblog.com/2023/06/imagen-editor-and-editbench-advancing.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
