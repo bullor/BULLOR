@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundStorm: Efficient parallel audio generation](http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html)
 - [Responsible AI at Google Research: AI for Social Good](http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html)
 - [The world’s first braiding of non-Abelian anyons](http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html)
 - [Google at CVPR 2023](http://ai.googleblog.com/2023/06/google-at-cvpr-2023.html)
 - [Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations](http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html)
-- [Reconstructing indoor spaces with NeRF](http://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
