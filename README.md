@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the first Machine Unlearning Challenge](http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 - [On-device diffusion plugins for conditioned text-to-image generation](http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html)
 - [Unifying image-caption and image-classification datasets with prefix conditioning](http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html)
 - [Preference learning with automated feedback for cache eviction](http://ai.googleblog.com/2023/06/preference-learning-with-automated.html)
 - [SoundStorm: Efficient parallel audio generation](http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html)
-- [Responsible AI at Google Research: AI for Social Good](http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
