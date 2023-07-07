@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modular visual question answering via code generation](http://ai.googleblog.com/2023/07/modular-visual-question-answering-via.html)
 - [Pic2Word: Mapping pictures to words for zero-shot composed image retrieval](http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html)
 - [Announcing the first Machine Unlearning Challenge](http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 - [On-device diffusion plugins for conditioned text-to-image generation](http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html)
 - [Unifying image-caption and image-classification datasets with prefix conditioning](http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html)
-- [Preference learning with automated feedback for cache eviction](http://ai.googleblog.com/2023/06/preference-learning-with-automated.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
