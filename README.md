@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Symbol tuning improves in-context learning in language models](http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html)
 - [An open-source gymnasium for machine learning assisted computer architecture design](http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html)
 - [Google at ACL 2023](http://ai.googleblog.com/2023/07/google-at-acl-2023.html)
 - [Modular visual question answering via code generation](http://ai.googleblog.com/2023/07/modular-visual-question-answering-via.html)
 - [Pic2Word: Mapping pictures to words for zero-shot composed image retrieval](http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html)
-- [Announcing the first Machine Unlearning Challenge](http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
