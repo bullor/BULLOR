@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google at ICML 2023](http://ai.googleblog.com/2023/07/google-at-icml-2023.html)
 - [Using societal context knowledge to foster the responsible application of AI](http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html)
 - [SimPer: Simple self-supervised learning of periodic targets](http://ai.googleblog.com/2023/07/simper-simple-self-supervised-learning.html)
 - [Symbol tuning improves in-context learning in language models](http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html)
 - [An open-source gymnasium for machine learning assisted computer architecture design](http://ai.googleblog.com/2023/07/an-open-source-gymnasium-for-computer.html)
-- [Google at ACL 2023](http://ai.googleblog.com/2023/07/google-at-acl-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
