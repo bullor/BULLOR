@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advances in document understanding](http://ai.googleblog.com/2023/08/advances-in-document-understanding.html)
 - [AdaTape: Foundation model with adaptive computation and dynamic read-and-write](http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html)
 - [Multimodal medical AI](http://ai.googleblog.com/2023/08/multimodal-medical-ai.html)
 - [In search of a generalizable method for source-free domain adaptation](http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html)
 - [Google at ICML 2023](http://ai.googleblog.com/2023/07/google-at-icml-2023.html)
-- [Using societal context knowledge to foster the responsible application of AI](http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
