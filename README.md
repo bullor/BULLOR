@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous visual information seeking with large language models](http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html)
 - [Neural network pruning with combinatorial optimization](http://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 - [STUDY: Socially aware temporally causal decoder recommender systems](http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html)
 - [Advances in document understanding](http://ai.googleblog.com/2023/08/advances-in-document-understanding.html)
 - [AdaTape: Foundation model with adaptive computation and dynamic read-and-write](http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html)
-- [Multimodal medical AI](http://ai.googleblog.com/2023/08/multimodal-medical-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
