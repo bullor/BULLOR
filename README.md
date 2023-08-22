@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Language to rewards for robotic skill synthesis](http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html)
 - [Google at Interspeech 2023](http://ai.googleblog.com/2023/08/google-at-interspeech-2023.html)
 - [Autonomous visual information seeking with large language models](http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html)
 - [Neural network pruning with combinatorial optimization](http://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 - [STUDY: Socially aware temporally causal decoder recommender systems](http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html)
-- [Advances in document understanding](http://ai.googleblog.com/2023/08/advances-in-document-understanding.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
