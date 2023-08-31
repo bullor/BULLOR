@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WeatherBench 2: A benchmark for the next generation of data-driven weather models](http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html)
 - [Modeling and improving text stability in live captions](http://blog.research.google/2023/08/modeling-and-improving-text-stability.html)
 - [SayTap: Language to quadrupedal locomotion](http://blog.research.google/2023/08/saytap-language-to-quadrupedal.html)
 - [RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers](http://blog.research.google/2023/08/ro-vit-region-aware-pre-training-for.html)
 - [Responsible AI at Google Research: Perception Fairness](http://blog.research.google/2023/08/responsible-ai-at-google-research.html)
-- [How to compare a noisy quantum processor to a classical computer](http://blog.research.google/2023/08/how-to-compare-noisy-quantum-processor.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
