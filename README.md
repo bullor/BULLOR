@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes](http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 - [MediaPipe FaceStylizer: On-device real-time few-shot face stylization](http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html)
 - [On-device content distillation with graph neural networks](http://blog.research.google/2023/09/on-device-content-distillation-with.html)
 - [World scale inverse reinforcement learning in Google Maps](http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html)
 - [Differentially private median and more](http://blog.research.google/2023/09/differentially-private-median-and-more.html)
-- [A novel computational fluid dynamics framework for turbulent flow research](http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
