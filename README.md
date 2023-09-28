@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Re-weighted gradient descent via distributionally robust optimization](http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html)
 - [Google Research embarks on effort to map a mouse brain](http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html)
 - [Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes](http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 - [MediaPipe FaceStylizer: On-device real-time few-shot face stylization](http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html)
 - [On-device content distillation with graph neural networks](http://blog.research.google/2023/09/on-device-content-distillation-with.html)
-- [World scale inverse reinforcement learning in Google Maps](http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
