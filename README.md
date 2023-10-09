@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, &amp; Obstacle avoidance dataset](http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html)
 - [Scalable spherical CNNs for scientific applications](http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html)
 - [Google at ICCV 2023](http://blog.research.google/2023/10/google-at-iccv-2023.html)
 - [DynIBaR: Space-time view synthesis from videos of dynamic scenes](http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
 - [Re-weighted gradient descent via distributionally robust optimization](http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html)
-- [Google Research embarks on effort to map a mouse brain](http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
