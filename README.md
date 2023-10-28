@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch calibration: Rethinking calibration for in-context learning and prompt engineering](http://blog.research.google/2023/10/batch-calibration-rethinking.html)
-- [Developing industrial use cases for physical simulation on future error-corrected quantum computers](http://blog.research.google/2023/10/developing-industrial-use-cases-for.html)
-- [SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, &amp; Obstacle avoidance dataset](http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html)
-- [Scalable spherical CNNs for scientific applications](http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html)
-- [Google at ICCV 2023](http://blog.research.google/2023/10/google-at-iccv-2023.html)
+- [Audioplethysmography for cardiac monitoring with hearable devices](http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html)
+- [Supporting benchmarks for AI safety with MLCommons](http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html)
+- [Spoken question answering and speech continuation using a spectrogram-powered LLM](http://blog.research.google/2023/10/spoken-question-answering-and-speech.html)
+- [Looking back at wildfire research in 2023](http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html)
+- [Grammar checking at Google Search scale](http://blog.research.google/2023/10/grammar-checking-at-google-search-scale.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
