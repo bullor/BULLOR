@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best of both worlds: Achieving scalability and quality in text clustering](http://blog.research.google/2023/11/best-of-both-worlds-achieving.html)
+- [Zero-shot adaptive prompting of large language models](http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html)
 - [MetNet-3: A state-of-the-art neural weather model available in Google products](http://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html)
 - [Audioplethysmography for cardiac monitoring with hearable devices](http://blog.research.google/2023/10/audioplethysmography-for-cardiac.html)
 - [Supporting benchmarks for AI safety with MLCommons](http://blog.research.google/2023/10/supporting-benchmarks-for-ai-safety.html)
-- [Spoken question answering and speech continuation using a spectrogram-powered LLM](http://blog.research.google/2023/10/spoken-question-answering-and-speech.html)
-- [Looking back at wildfire research in 2023](http://blog.research.google/2023/10/looking-back-at-wildfire-research-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
