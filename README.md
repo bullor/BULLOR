@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enabling large-scale health studies for the research community](http://blog.research.google/2023/11/enabling-large-scale-health-studies-for.html)
 - [Responsible AI at Google Research: Context in AI Research &lpar;CAIR&rpar;](http://blog.research.google/2023/11/responsible-ai-at-google-research.html)
 - [Overcoming leakage on error-corrected quantum processors](http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html)
 - [Alternating updates for efficient transformers](http://blog.research.google/2023/11/alternating-updates-for-efficient.html)
 - [Best of both worlds: Achieving scalability and quality in text clustering](http://blog.research.google/2023/11/best-of-both-worlds-achieving.html)
-- [Zero-shot adaptive prompting of large language models](http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
