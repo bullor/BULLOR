@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible AI at Google Research: Context in AI Research &lpar;CAIR&rpar;](http://blog.research.google/2023/11/responsible-ai-at-google-research.html)
 - [Overcoming leakage on error-corrected quantum processors](http://blog.research.google/2023/11/overcoming-leakage-on-error-corrected.html)
 - [Alternating updates for efficient transformers](http://blog.research.google/2023/11/alternating-updates-for-efficient.html)
 - [Best of both worlds: Achieving scalability and quality in text clustering](http://blog.research.google/2023/11/best-of-both-worlds-achieving.html)
 - [Zero-shot adaptive prompting of large language models](http://blog.research.google/2023/11/zero-shot-adaptive-prompting-of-large.html)
-- [MetNet-3: A state-of-the-art neural weather model available in Google products](http://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
