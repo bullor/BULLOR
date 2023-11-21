@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open sourcing Project Guideline: A platform for computer vision accessibility technology](http://blog.research.google/2023/11/open-sourcing-project-guideline.html)
 - [Emerging practices for Society-Centered AI](http://blog.research.google/2023/11/emerging-practices-for-society-centered.html)
 - [Responsible AI at Google Research: Adversarial testing for generative AI safety](http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html)
 - [Scaling multimodal understanding to long videos](http://blog.research.google/2023/11/scaling-multimodal-understanding-to.html)
 - [Enabling large-scale health studies for the research community](http://blog.research.google/2023/11/enabling-large-scale-health-studies-for.html)
-- [Responsible AI at Google Research: Context in AI Research &lpar;CAIR&rpar;](http://blog.research.google/2023/11/responsible-ai-at-google-research.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
