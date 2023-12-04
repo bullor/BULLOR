@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Summary report optimization in the Privacy Sandbox Attribution Reporting API](http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html)
 - [Unsupervised speech-to-speech translation from monolingual data](http://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
 - [Improving simulations of clouds and their effects on climate](http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html)
 - [Open sourcing Project Guideline: A platform for computer vision accessibility technology](http://blog.research.google/2023/11/open-sourcing-project-guideline.html)
 - [Emerging practices for Society-Centered AI](http://blog.research.google/2023/11/emerging-practices-for-society-centered.html)
-- [Responsible AI at Google Research: Adversarial testing for generative AI safety](http://blog.research.google/2023/11/responsible-ai-at-google-research_16.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
