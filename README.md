@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VALID: A perceptually validated virtual avatar library for inclusion and diversity](http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html)
 - [Google at EMNLP 2023](http://blog.research.google/2023/12/google-at-emnlp-2023.html)
 - [A new quantum algorithm for classical mechanics with an exponential speedup](http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
 - [Summary report optimization in the Privacy Sandbox Attribution Reporting API](http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html)
 - [Unsupervised speech-to-speech translation from monolingual data](http://blog.research.google/2023/12/unsupervised-speech-to-speech.html)
-- [Improving simulations of clouds and their effects on climate](http://blog.research.google/2023/11/improving-simulations-of-clouds-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
