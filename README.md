@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google at NeurIPS 2023](http://blog.research.google/2023/12/google-at-neurips-2023.html)
 - [Sparsity-preserving differentially private training](http://blog.research.google/2023/12/sparsity-preserving-differentially.html)
 - [VALID: A perceptually validated virtual avatar library for inclusion and diversity](http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html)
 - [Google at EMNLP 2023](http://blog.research.google/2023/12/google-at-emnlp-2023.html)
 - [A new quantum algorithm for classical mechanics with an exponential speedup](http://blog.research.google/2023/12/a-new-quantum-algorithm-for-classical.html)
-- [Summary report optimization in the Privacy Sandbox Attribution Reporting API](http://blog.research.google/2023/12/summary-report-optimization-in-privacy.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
