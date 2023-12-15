@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advancements in machine learning for machine learning](http://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 - [StyleDrop: Text-to-image generation in any style](http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html)
 - [Google at NeurIPS 2023](http://blog.research.google/2023/12/google-at-neurips-2023.html)
 - [Sparsity-preserving differentially private training](http://blog.research.google/2023/12/sparsity-preserving-differentially.html)
 - [VALID: A perceptually validated virtual avatar library for inclusion and diversity](http://blog.research.google/2023/12/valid-perceptually-validated-virtual.html)
-- [Google at EMNLP 2023](http://blog.research.google/2023/12/google-at-emnlp-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
