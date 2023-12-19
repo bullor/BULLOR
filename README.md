@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VideoPoet: A large language model for zero-shot video generation](http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)
 - [Simulations illuminate the path to post-event traffic flow](http://blog.research.google/2023/12/simulations-illuminate-path-to-post.html)
 - [Advancements in machine learning for machine learning](http://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 - [StyleDrop: Text-to-image generation in any style](http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html)
 - [Google at NeurIPS 2023](http://blog.research.google/2023/12/google-at-neurips-2023.html)
-- [Sparsity-preserving differentially private training](http://blog.research.google/2023/12/sparsity-preserving-differentially.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
