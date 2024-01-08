@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible AI at Google Research: User Experience Team](http://blog.research.google/2024/01/responsible-ai-at-google-research-user.html)
 - [2023: A year of groundbreaking advances in AI and computing](http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 - [VideoPoet: A large language model for zero-shot video generation](http://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)
 - [Simulations illuminate the path to post-event traffic flow](http://blog.research.google/2023/12/simulations-illuminate-path-to-post.html)
 - [Advancements in machine learning for machine learning](http://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
-- [StyleDrop: Text-to-image generation in any style](http://blog.research.google/2023/12/styledrop-text-to-image-generation-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
