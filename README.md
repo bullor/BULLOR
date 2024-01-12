@@ -46,7 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AMIE: A research AI system for diagnostic medical reasoning and conversations](http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic.html)
+- [AMIE: A research AI system for diagnostic medical reasoning and conversations](http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)
 - [Can large language models identify and correct their mistakes?](http://blog.research.google/2024/01/can-large-language-models-identify-and.html)
 - [Responsible AI at Google Research: User Experience Team](http://blog.research.google/2024/01/responsible-ai-at-google-research-user.html)
 - [2023: A year of groundbreaking advances in AI and computing](http://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
