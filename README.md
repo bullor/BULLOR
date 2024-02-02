@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intervening on early readouts for mitigating spurious features and simplicity bias](http://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
 - [MobileDiffusion: Rapid text-to-image generation on-device](http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 - [Mixed-input matrix multiplication performance optimizations](http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html)
 - [Exphormer: Scaling transformers for graph-structured data](http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html)
 - [Introducing ASPIRE for selective prediction in LLMs](http://blog.research.google/2024/01/introducing-aspire-for-selective.html)
-- [AMIE: A research AI system for diagnostic medical reasoning and conversations](http://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
