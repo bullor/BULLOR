@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Graph neural networks in TensorFlow](http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
 - [A decoder-only foundation model for time-series forecasting](http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 - [Intervening on early readouts for mitigating spurious features and simplicity bias](http://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
 - [MobileDiffusion: Rapid text-to-image generation on-device](http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 - [Mixed-input matrix multiplication performance optimizations](http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html)
-- [Exphormer: Scaling transformers for graph-structured data](http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
