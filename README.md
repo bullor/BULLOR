@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VideoPrism: A foundational visual encoder for video understanding](http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html)
 - [Advances in private training for production on-device language models](http://blog.research.google/2024/02/advances-in-private-training-for.html)
 - [Learning the importance of training data under concept drift](http://blog.research.google/2024/02/learning-importance-of-training-data.html)
 - [DP-Auditorium: A flexible library for auditing differential privacy](http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html)
 - [Graph neural networks in TensorFlow](http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
-- [A decoder-only foundation model for time-series forecasting](http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
