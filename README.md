@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Health-specific embedding tools for dermatology and pathology](http://blog.research.google/2024/03/health-specific-embedding-tools-for.html)
 - [Social learning: Collaborative learning with large language models](http://blog.research.google/2024/03/social-learning-collaborative-learning.html)
 - [Croissant: a metadata format for ML-ready datasets](http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html)
 - [Google at APS 2024](http://blog.research.google/2024/03/google-at-aps-2024.html)
 - [VideoPrism: A foundational visual encoder for video understanding](http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html)
-- [Advances in private training for production on-device language models](http://blog.research.google/2024/02/advances-in-private-training-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
