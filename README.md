@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk like a graph: Encoding graphs for large language models](http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html)
 - [Chain-of-table: Evolving tables in the reasoning chain for table understanding](http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html)
 - [Health-specific embedding tools for dermatology and pathology](http://blog.research.google/2024/03/health-specific-embedding-tools-for.html)
 - [Social learning: Collaborative learning with large language models](http://blog.research.google/2024/03/social-learning-collaborative-learning.html)
 - [Croissant: a metadata format for ML-ready datasets](http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html)
-- [Google at APS 2024](http://blog.research.google/2024/03/google-at-aps-2024.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
