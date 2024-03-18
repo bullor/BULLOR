@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MELON: Reconstructing 3D objects from images with unknown poses](http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html)
 - [HEAL: A framework for health equity assessment of machine learning performance](http://blog.research.google/2024/03/heal-framework-for-health-equity.html)
 - [Cappy: Outperforming and boosting large multi-task language models with a small scorer](http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html)
 - [Talk like a graph: Encoding graphs for large language models](http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html)
 - [Chain-of-table: Evolving tables in the reasoning chain for table understanding](http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html)
-- [Health-specific embedding tools for dermatology and pathology](http://blog.research.google/2024/03/health-specific-embedding-tools-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
