@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)
 - [SCIN: A new resource for representative dermatology images](http://blog.research.google/2024/03/scin-new-resource-for-representative.html)
 - [MELON: Reconstructing 3D objects from images with unknown poses](http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html)
 - [HEAL: A framework for health equity assessment of machine learning performance](http://blog.research.google/2024/03/heal-framework-for-health-equity.html)
 - [Cappy: Outperforming and boosting large multi-task language models with a small scorer](http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html)
-- [Talk like a graph: Encoding graphs for large language models](http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
