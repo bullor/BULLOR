@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)
 - [Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)
 - [Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)
 - [ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)
 - [SCIN: A new resource for representative dermatology images](http://blog.research.google/2024/03/scin-new-resource-for-representative.html)
-- [MELON: Reconstructing 3D objects from images with unknown poses](http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
